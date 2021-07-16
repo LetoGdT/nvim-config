@@ -1,0 +1,9 @@
+source ~/.config/nvim/vim-plug/plugins.vim
+source ~/.config/nvim/plug-config/theme.vim
+source ~/.config/nvim/plug-config/nerdtree.vim
+source ~/.config/nvim/plug-config/powerline.vim
+source ~/.config/nvim/plug-config/fzf.vim
+source ~/.config/nvim/plug-config/undotree.vim
+source ~/.config/nvim/plug-config/coc.vim
+source ~/.config/nvim/general/maps.vim
+source ~/.config/nvim/general/settings.vim
